@@ -1,0 +1,55 @@
+body
+{
+	background-color:blue;
+}
+
+h1
+{
+	text-align: center;
+	
+}
+
+
+
+video
+{
+	width: 30%;
+	 height: auto;
+}
+
+h2
+{
+text-align: center;
+}
+
+IMG.flèche1
+ {
+ 	width:100px;
+	height:100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+} 
+
+#block
+{
+
+ width: 1000px;
+margin:0 auto;
+background-color: white;
+text-align: center;
+align-content: center;
+}
+
+IMG.poule
+{
+	width:350px;
+	height:350px;
+	border-style: solid;
+}
+
+#p1
+{
+	color:red ;
+	font-size: 150%;
+}
